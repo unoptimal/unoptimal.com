@@ -8,7 +8,4 @@
     <ul id="feature">
         <li><a href="https://unoptimal.github.io/essays/backpage">An introduction to backpage content</a><small><time class="new">new!</time></small></li>
         <li><a href="https://unoptimal.com/bojack/index.html">I tracked every running gag in Bojack Horseman</a><small><time class="new">new!</time></small></li>
-        
-        
-        
     </ul>
