@@ -1,6 +1,8 @@
 <script>
 
-import Header from "../lib/components/Header.svelte";
+import Header from "$lib/components/Header.svelte";
+import Footer from "$lib/components/Footer.svelte";
+import '$lib/styles/styles.css'
 import { fade } from 'svelte/transition'
 export let data;
 
@@ -14,4 +16,14 @@ export let data;
 {/key}
 
 
+<Footer />
+
+<style>
+  main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  
+</style>
 

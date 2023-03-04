@@ -1,0 +1,74 @@
+{
+    "issues": [
+      {
+        "title": "#23: 3.2.23",
+        "articles": [
+          {
+            "title": "No one can teach you to have conviction",
+            "url": "https://www.benkuhn.net/conviction/",
+            "time": "~6 min"
+          },
+          {
+            "title": "Cities and Ambition",
+            "url": "http://www.paulgraham.com/cities.html",
+            "time": "~10 min"
+          }
+        ],
+        "tweets": [
+          {
+            "text": "people think things are luck",
+            "url": "https://twitter.com/simonsarris/status/1616188084491784195",
+            "time": "@simonsarris"
+          },
+          {
+            "text": "what if you tried being unfair and mean here",
+            "url": "https://twitter.com/QiaochuYuan/status/1629952955779805185",
+            "time": "@QiaochuYuan"
+          }
+        ],
+        "misc": [
+          {
+            "title": "Transparent Chess",
+            "url": "https://www.bewitched.com/chess/",
+            "time": "interactive"
+          }
+        ],
+        "question": "What is the most interesting thing you learned this week?"
+      },
+      {
+        "title": "#22: 3.2.22",
+        "articles": [
+          {
+            "title": "How to start working for yourself",
+            "url": "https://shlomifish.org/philosophy/computers/working-for-yourself/",
+            "time": "~25 min"
+          },
+          {
+            "title": "The Math of Pandemics",
+            "url": "https://www.quantamagazine.org/the-math-of-pandemics-20200319/",
+            "time": "~20 min"
+          }
+        ],
+        "tweets": [
+          {
+            "text": "luck, measurement, and success",
+            "url": "https://twitter.com/naval/status/1595862455342511104",
+            "time": "@naval"
+          },
+          {
+            "text": "the future will be weird",
+            "url": "https://twitter.com/thesarahkelly/status/1612357681527699456",
+            "time": "@thesarahkelly"
+          }
+        ],
+        "misc": [
+          {
+            "title": "grapefrukt games",
+            "url": "https://grapefrukt.com/",
+            "time": "interactive"
+          }
+        ],
+        "question": "What are some TV shows or movies that you've been enjoying lately?"
+      }
+    ]
+  }

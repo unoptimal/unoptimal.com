@@ -13,7 +13,12 @@ header {
   align-items: center;
 }
 img {
-  max-width: 100%;
+  max-width: 150px;
   height: auto;
 }
+a {
+  padding: 0 10px; /* Add padding inside links */
+  text-decoration: none;
+}
+
 </style>
