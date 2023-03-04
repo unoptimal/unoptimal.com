@@ -1,5 +1,5 @@
 <header>
-    <a href="/"><img src="src\img\logo.png" alt="Logo"></a>
+    <a href="/"><img src="../src/img/logo.png" alt="website logo"></a>
     <a href="/essays">essays</a>
     <a href="/videos">videos</a>
     <a href="/code">code</a>
