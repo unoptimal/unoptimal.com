@@ -6,3 +6,9 @@
     <li><a href="https://personality-quiz-iota.vercel.app/">Interactive Personality Quiz</a><small><time>12.6.22</time></small></li>
     <li><a href="https://grandeur-six.vercel.app/">Grandeur </a><small><time>11.18.22</time></small></li>
 </ul>
+
+<style>
+    li{
+        margin-bottom: 10px;
+    }
+</style>

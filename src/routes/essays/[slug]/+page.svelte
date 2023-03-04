@@ -9,3 +9,5 @@
     <p>{data.date}</p>
     <svelte:component this={data.content} />
   </article>
+
+  
