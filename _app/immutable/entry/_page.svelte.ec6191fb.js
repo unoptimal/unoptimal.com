@@ -1,0 +1,3 @@
+import{S as E,i as _,s as I,q as f,k as p,a as L,r as c,l as u,c as d,m as x,h as i,n as B,b as n,C as D,D as m}from"../chunks/index.6390d3eb.js";function b(h){let s,l,r,e,o;return{c(){s=f(`WEBSITE REBUILD PENDING LOL
+`),l=p("br"),r=L(),e=p("a"),o=f("videos"),this.h()},l(t){s=c(t,`WEBSITE REBUILD PENDING LOL
+`),l=u(t,"BR",{}),r=d(t),e=u(t,"A",{href:!0});var a=x(e);o=c(a,"videos"),a.forEach(i),this.h()},h(){B(e,"href","https://www.youtube.com/@unoptimal")},m(t,a){n(t,s,a),n(t,l,a),n(t,r,a),n(t,e,a),D(e,o)},p:m,i:m,o:m,d(t){t&&i(s),t&&i(l),t&&i(r),t&&i(e)}}}class N extends E{constructor(s){super(),_(this,s,null,b,I,{})}}export{N as default};
