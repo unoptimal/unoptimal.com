@@ -1,0 +1,3 @@
+import{S as h,i as x,s as D,q as _,k as u,a as c,r as b,l as n,c as B,m as v,h as a,n as N,b as i,C as R,D as E}from"../chunks/index.6390d3eb.js";function S(I){let l,r,f,m,p,s,o;return{c(){l=_(`WEBSITE REBUILD PENDING 
+`),r=u("br"),f=c(),m=u("br"),p=c(),s=u("a"),o=_("videos"),this.h()},l(t){l=b(t,`WEBSITE REBUILD PENDING 
+`),r=n(t,"BR",{}),f=B(t),m=n(t,"BR",{}),p=B(t),s=n(t,"A",{href:!0});var e=v(s);o=b(e,"videos"),e.forEach(a),this.h()},h(){N(s,"href","https://www.youtube.com/@unoptimal")},m(t,e){i(t,l,e),i(t,r,e),i(t,f,e),i(t,m,e),i(t,p,e),i(t,s,e),R(s,o)},p:E,i:E,o:E,d(t){t&&a(l),t&&a(r),t&&a(f),t&&a(m),t&&a(p),t&&a(s)}}}class y extends h{constructor(l){super(),x(this,l,null,S,D,{})}}export{y as default};
