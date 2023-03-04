@@ -2,18 +2,19 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8" />
-		<link rel="icon" href="./favicon.png" />
+		<link rel="icon" href="./logo.png" />
 		<meta name="viewport" content="width=device-width" />
 		<meta http-equiv="content-security-policy" content="">
-		<link rel="modulepreload" href="./_app/immutable/entry/start.bc197d99.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/index.6390d3eb.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/singletons.e40c1402.js">
-		<link rel="modulepreload" href="./_app/immutable/entry/app.54c24cab.js">
+		<link href="./_app/immutable/assets/_layout.85279adf.css" rel="stylesheet">
+		<link rel="modulepreload" href="./_app/immutable/entry/start.c6106d2e.js">
+		<link rel="modulepreload" href="./_app/immutable/chunks/index.238e535a.js">
+		<link rel="modulepreload" href="./_app/immutable/chunks/singletons.b5e28843.js">
+		<link rel="modulepreload" href="./_app/immutable/entry/app.f655e4bb.js">
 		<link rel="modulepreload" href="./_app/immutable/chunks/preload-helper.41c905a7.js">
-		<link rel="modulepreload" href="./_app/immutable/entry/_layout.svelte.c97ea08e.js">
+		<link rel="modulepreload" href="./_app/immutable/entry/_layout.svelte.e46e6086.js">
 		<link rel="modulepreload" href="./_app/immutable/entry/_layout.js.3ea2b760.js">
 		<link rel="modulepreload" href="./_app/immutable/chunks/_layout.6a830c33.js">
-		<link rel="modulepreload" href="./_app/immutable/entry/essays-page.svelte.6d546f88.js">
+		<link rel="modulepreload" href="./_app/immutable/entry/essays-page.svelte.451e341f.js">
 		<link rel="modulepreload" href="./_app/immutable/entry/essays-page.js.1d4ca031.js">
 		<link rel="modulepreload" href="./_app/immutable/chunks/_page.a5e8a8ff.js">
 	</head>
@@ -21,7 +22,12 @@
 		<div style="display: contents">
 
 
-<header><a href="/">unoptimal</a></header>
+<header class="svelte-1smdbuw"><a href="/"><img src="/logo.png" alt="website logo" class="svelte-1smdbuw"></a>
+    <a href="/essays">essays</a>
+    <a href="/videos">videos</a>
+    <a href="/code">code</a>
+    <a href="/misc">misc</a>
+</header>
 
 <main><h1>Blog</h1>
       
@@ -40,7 +46,7 @@
 			<script type="application/json" data-sveltekit-fetched data-url="/api/posts">{"status":200,"statusText":"","headers":{},"body":"[{\"meta\":{\"title\":\"Post One\",\"date\":\"2021-12-14\"},\"path\":\"/essays/1\"},{\"meta\":{\"title\":\"Post TWO\",\"date\":\"2021-12-14\"},\"path\":\"/essays/2\"},{\"meta\":{\"title\":\"Post One\",\"date\":\"2021-12-14\"},\"path\":\"/essays/3\"}]"}</script>
 			<script>
 				{
-					__sveltekit_bk4gra = {
+					__sveltekit_avl15d = {
 						env: {},
 						base: new URL(".", location).pathname.slice(0, -1),
 						element: document.currentScript.parentElement
@@ -49,11 +55,11 @@
 					const data = [null,null];
 
 					Promise.all([
-						import("./_app/immutable/entry/start.bc197d99.js"),
-						import("./_app/immutable/entry/app.54c24cab.js")
+						import("./_app/immutable/entry/start.c6106d2e.js"),
+						import("./_app/immutable/entry/app.f655e4bb.js")
 					]).then(([kit, app]) => {
-						kit.start(app, __sveltekit_bk4gra.element, {
-							node_ids: [0, 3],
+						kit.start(app, __sveltekit_avl15d.element, {
+							node_ids: [0, 4],
 							data,
 							form: null,
 							error: null
