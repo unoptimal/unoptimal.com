@@ -15,5 +15,3 @@ export let data;
 
 
 
-<footer>Hello, I'm the footer.</footer>
-
