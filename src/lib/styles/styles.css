@@ -1,14 +1,22 @@
 body {
     font-family: Arial, sans-serif;
-    max-width: 500px;
+    max-width: 600px;
     margin: auto;
 }
 a{
     text-decoration: none;
 }
-a:visited {
-    color:black;
-}
+
 a:hover {
     color:#16b7ff;
 }
+
+time{
+    color: #16b7ff
+}
+
+small time {
+    font-size: 12px;
+    padding-left: 8px;
+}
+

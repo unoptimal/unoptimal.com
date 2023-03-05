@@ -1,6 +1,8 @@
 <h2>videos</h2>
 <p>* indicate personal favorites.</p>
+
 <ul class="archive">
+    <li><a href="https://www.youtube.com/watch?v=qeDGjrbWSOw">Every running gag in Bojack Horseman</a><small><time>2.10.23</time></small></li>
     <li><a href="https://www.youtube.com/watch?v=kIpOuMnGpt4">What is Grandeur?</a><small><time>11.18.22</time></small></li>
     <li><a href="https://www.youtube.com/watch?v=W0W8V01mR6M">beauty is in the details</a><small><time>11.6.22</time></small></li>
     <li><a href="https://www.youtube.com/watch?v=8p7pphdSOYk">a day in the life of students who make 'a day in the life' videos</a><small><time>10.28.22</time></small> *</li>
