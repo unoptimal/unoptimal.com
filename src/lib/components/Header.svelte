@@ -3,7 +3,7 @@
 </script>
 
 <header>
-    <a href="{base}/"><img src="/logo.png" alt="website logo"></a>
+    <a href="{base}/"><img src="{base}/logo.png" alt="website logo"></a>
     <a href="{base}/essays">essays</a>
     <a href="{base}/videos">videos</a>
     <a href="{base}/code">code</a>
