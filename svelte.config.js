@@ -6,9 +6,10 @@ const config = {
 
 	kit: {
 		adapter: adapter(),
-		paths:{
-			base: process.env.NODE_ENV === "production" ? "/unoptimal.com" : "",
-		}
+		paths: {
+			base: '',
+			assets: ''
+		  },
 		},
 	
 	extensions: ['.svelte', '.md'],
