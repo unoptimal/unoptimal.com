@@ -5,9 +5,9 @@
 	"private": true,
 	"scripts": {
 		"dev": "vite dev",
-		"build": "rm -rf build && svelte-kit build && touch .svelte-kit/static/build/.nojekyll",
 		"preview": "vite preview",
-		"deploy": "npm run build && npx gh-pages -d .svelte-kit/static/build -t true"
+		"build": "vite build",
+		"deploy": "touch build/.nojekyll && gh-pages -d build -t true"
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "^1.0.0-next.90",
