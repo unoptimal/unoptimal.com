@@ -5,6 +5,7 @@
 </script>
     
     <h2>essays</h2>
+    * indicate personal favorites
       
     <ul>
       {#each data.posts as post}
@@ -12,8 +13,3 @@
       {/each}
     </ul>
 
-    <style>
-      li{
-          margin-bottom: 10px;
-      }
-  </style>

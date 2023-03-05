@@ -1,5 +1,5 @@
 <h2>videos</h2>
-<p>* indicate personal favorites.</p>
+* indicate personal favorites
 
 <ul class="archive">
     <li><a href="https://www.youtube.com/watch?v=qeDGjrbWSOw">Every running gag in Bojack Horseman</a><small><time>2.10.23</time></small></li>
@@ -21,8 +21,3 @@
     <li><a href="https://www.youtube.com/watch?v=vTMzjkMOvBE">Superpowers and the Future of Humanity</a><small><time>1.27.21</time></small></li>
 </ul>
 
-<style>
-    li{
-        margin-bottom: 10px;
-    }
-</style>

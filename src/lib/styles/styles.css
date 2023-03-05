@@ -2,6 +2,7 @@ body {
     font-family: Arial, sans-serif;
     max-width: 600px;
     margin: auto;
+    font-size: 20px;
 }
 a{
     text-decoration: none;
@@ -15,8 +16,24 @@ time{
     color: #16b7ff
 }
 
+li{
+    margin-bottom: 10px;
+}
+
 small time {
     font-size: 12px;
     padding-left: 8px;
 }
 
+@media screen and (max-width: 768px) {
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+  }
+
+  @media only screen and (max-width: 600px) {
+    body {
+        padding-left: 50px;
+    }
+  }
