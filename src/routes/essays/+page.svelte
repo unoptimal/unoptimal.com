@@ -1,10 +1,15 @@
+<svelte:head>
+    <title>unoptimal</title>
+    <meta property="og:title" content=unoptimal />
+  </svelte:head>
+
 <script>
     export let data
     import { base } from '$app/paths';
 
 </script>
     
-    <h2>essays</h2>
+    <h1>essays</h1>
     * indicate personal favorites
       
     <ul>

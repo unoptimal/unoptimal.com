@@ -1,9 +1,11 @@
 body {
     font-family: Arial, sans-serif;
-    max-width: 600px;
+    max-width: 50rem;
     margin: auto;
-    font-size: 20px;
+    font-size: 1.25rem;
+    line-height: 1.75rem;
 }
+  
 a{
     text-decoration: none;
 }
@@ -25,15 +27,20 @@ small time {
     padding-left: 8px;
 }
 
-@media screen and (max-width: 768px) {
-    img {
-      max-width: 100%;
-      height: auto;
-    }
+ .post-img{
+    max-width: 95%;
+    height: auto;
+    border: 2px solid black;
+    border-radius: 10px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3);
+    margin-top: 5px;
+    margin-bottom: 5px;
+    
   }
+  
 
   @media only screen and (max-width: 600px) {
     body {
-        padding-left: 50px;
+        padding-left: 1.5rem;
     }
   }

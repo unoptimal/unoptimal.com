@@ -1,4 +1,9 @@
-<h2>videos</h2>
+<svelte:head>
+    <title>unoptimal</title>
+    <meta property="og:title" content=unoptimal />
+  </svelte:head>
+
+<h1>videos</h1>
 * indicate personal favorites
 
 <ul class="archive">

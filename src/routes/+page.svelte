@@ -1,3 +1,9 @@
+<svelte:head>
+    <title>unoptimal</title>
+    <meta property="og:title" content=unoptimal />
+  </svelte:head>
+
+
 <h1>website rebuild pending</h1>
 <h3>re-adding old content rn. also styling</h3>
 

@@ -1,8 +1,7 @@
 <footer>
-    <a href="https://www.youtube.com/@unoptimal">yt</a>
+    <a href="https://www.youtube.com/@unoptimal">youtube</a>
     <a href="https://twitter.com/thatsnotoptimal">twitter</a>
     <a href="https://github.com/unoptimal">github</a>
-
 </footer>
 
 <style>
@@ -11,6 +10,7 @@
         justify-content: center;
         align-items: center;
         margin-bottom: 40px;
+        margin-top: 20px;
     }
     a {
         padding: 0 10px; /* Add padding inside links */

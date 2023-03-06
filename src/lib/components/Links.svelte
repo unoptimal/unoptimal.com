@@ -71,4 +71,8 @@
   background-color: #f9f9f9;
 }
 
+li{
+    margin-bottom: 10px;
+}
+
 </style>

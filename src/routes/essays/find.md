@@ -6,7 +6,7 @@ date: "September 28, 2022"
 
 Sometimes when I send my friends articles or links, they ask how I find them. Here’s a list of my best tips and tricks for coming across interesting content online.
 
-![Niche Content](/find/niche.PNG "niche content")
+<img src="/find/niche.PNG" alt="Niche Content" title="niche content" class="post-img">
 
 **Get curious**
 
