@@ -1,7 +1,7 @@
 ---
 title: Cultivating the right itches
-smalldate: "12.8.22"
 date: "December 8, 2022"
+fav: "*"
 ---
 
 *Spring, 2019*: There’s a few weeks left in my sophomore year of high school. I just started unoptimal a couple months earlier and have been eagerly writing since. My parents gently suggest that I hold off on blogging in favor of school work for this end-of-semester sprint. That makes enough sense, so I comply.

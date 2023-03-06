@@ -1,6 +1,5 @@
 ---
 title: An introduction to backpage content
-smalldate: "2.22.23"
 date: "February 22, 2023"
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Making the creative leap of faith easier to take
-smalldate: "3.2.22"
 date: "March 2, 2022"
 ---
 

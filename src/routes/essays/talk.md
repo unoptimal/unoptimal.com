@@ -1,6 +1,5 @@
 ---
 title: A feature for better back and forths
-smalldate: "1.5.22"
 date: "January 5, 2022"
 ---
 

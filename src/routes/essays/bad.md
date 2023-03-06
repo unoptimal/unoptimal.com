@@ -1,6 +1,5 @@
 ---
 title: Most things are bad, and that's okay
-smalldate: "10.17.22"
 date: "October 17, 2022"
 ---
 

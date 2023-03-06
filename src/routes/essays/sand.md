@@ -1,6 +1,5 @@
 ---
 title: Creativity as sand
-smalldate: "3.16.22"
 date: "March 16, 2022"
 ---
 

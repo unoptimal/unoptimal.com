@@ -1,7 +1,7 @@
 ---
 title: There are no rules
-smalldate: "9.23.22"
 date: "September 23, 2022"
+fav: "*"
 ---
 
 *Crossposted to [LessWrong](https://www.lesswrong.com/posts/Qjyo9NJXFBsR96c4i/there-are-no-rules)*

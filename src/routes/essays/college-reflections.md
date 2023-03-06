@@ -1,6 +1,5 @@
 ---
 title: Reflections on a year of college
-smalldate: "5.12.22"
 date: "May 12, 2022"
 ---
 

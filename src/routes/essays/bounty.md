@@ -1,6 +1,5 @@
 ---
 title: A bounty system for ideas and projects
-smalldate: "1.22.22"
 date: "January 22, 2022"
 ---
 

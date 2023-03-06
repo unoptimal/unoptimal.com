@@ -1,6 +1,5 @@
 ---
 title: How I find interesting content online
-smalldate: "9.28.22"
 date: "September 28, 2022"
 ---
 
