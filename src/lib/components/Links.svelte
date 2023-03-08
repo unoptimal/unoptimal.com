@@ -22,27 +22,24 @@
       {#each issue.articles as article}
         <div class="article">
           <ul>
-            <li><a href={article.url} target="_blank" rel="noopener noreferrer">{article.title}</a></li>
-            <span>{article.time}</span>
+            <li><a href={article.url} target="_blank" rel="noopener noreferrer">{article.title}</a> <small>{article.time}</small></li>
           </ul>
         </div>
       {/each}
       <h4>Tweets</h4>
       {#each issue.tweets as tweet}
         <div class="tweet">
-          <a href={tweet.url} target="_blank" rel="noopener noreferrer">{tweet.text}</a>
-          <span>{tweet.time}</span>
+          <li><a href={tweet.url} target="_blank" rel="noopener noreferrer">{tweet.text}</a> <small>{tweet.time}</small></li>
         </div>
       {/each}
       <h4>Misc</h4>
       {#each issue.misc as misc}
         <div class="misc">
-          <a href={misc.url} target="_blank" rel="noopener noreferrer">{misc.title}</a>
-          <span>{misc.time}</span>
+          <li><a href={misc.url} target="_blank" rel="noopener noreferrer">{misc.title}</a> <small>{misc.time}</small></li>
         </div>
       {/each}
-      <h4>Question</h4>
-      <p>{issue.question}</p>
+      <h4>Question Of The Week</h4>
+      <li>{issue.question}</li>
     </div>
   {/each}
   
@@ -73,6 +70,10 @@
 
 li{
     margin-bottom: 10px;
+}
+
+small{
+    color: #16b7ff
 }
 
 </style>
