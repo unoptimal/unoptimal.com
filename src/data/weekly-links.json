@@ -31,44 +31,101 @@
             "title": "Transparent Chess",
             "url": "https://www.bewitched.com/chess/",
             "time": "interactive"
-          }
-        ],
-        "question": "What is the most interesting thing you learned this week?"
-      },
-      {
-        "title": "#22: 3.2.22",
-        "articles": [
-          {
-            "title": "How to start working for yourself",
-            "url": "https://shlomifish.org/philosophy/computers/working-for-yourself/",
-            "time": "~25 min"
           },
           {
-            "title": "The Math of Pandemics",
-            "url": "https://www.quantamagazine.org/the-math-of-pandemics-20200319/",
-            "time": "~20 min"
+            "title": "Educate Your Child",
+            "url": "https://gabriellelamarrlemee.github.io/thesis-simulation/",
+            "time": "interactive"
+          }
+        ],
+        "question": "What would you say is the primary source of joy in your life? Is it your work, personal relationships, or something else?"
+      },
+
+      {
+        "title": "#22: 2.23.23",
+        "articles": [
+          {
+            "title": "Infinite Games",
+            "url": "https://web.archive.org/web/20220130233317/https://edwardsays.com/infinite-games/",
+            "time": "~4 min"
+          },
+          {
+            "title": "Childhoods of exceptional people",
+            "url": "https://escapingflatland.substack.com/p/childhoods",
+            "time": "~8 min"
           }
         ],
         "tweets": [
           {
-            "text": "luck, measurement, and success",
-            "url": "https://twitter.com/naval/status/1595862455342511104",
-            "time": "@naval"
+            "text": "Life requires you to be an active participant",
+            "url": "https://twitter.com/tishray/status/1612123324296925184",
+            "time": "@tishray"
           },
           {
-            "text": "the future will be weird",
-            "url": "https://twitter.com/thesarahkelly/status/1612357681527699456",
-            "time": "@thesarahkelly"
+            "text": "Have you tried doing what you’re currently doing, but like you actually wanted it to succeed?",
+            "url": "https://twitter.com/DRMacIver/status/1627957886289682435",
+            "time": "@DRMacIver"
           }
         ],
         "misc": [
           {
-            "title": "grapefrukt games",
-            "url": "https://grapefrukt.com/",
+            "title": "What's Our Problem?",
+            "url": "https://waitbutwhy.com/",
+            "time": "book"
+          },
+          {
+            "title": "Constraint Systems",
+            "url": "https://constraint.systems/",
             "time": "interactive"
           }
         ],
-        "question": "What are some TV shows or movies that you've been enjoying lately?"
+        "question": "What are some things you admire in other people?"
+      },
+
+      {
+        "title": "#21: 2.16.23",
+        "articles": [
+          {
+            "title": "Let the others find you",
+            "url": "https://www.michaelashcroft.org/blog/how-to-find-the-others",
+            "time": "~2 min"
+          },
+          {
+            "title": "ambition as a fingerprint",
+            "url": "https://mindmine.substack.com/p/ambition-as-a-fingerprint",
+            "time": "~5 min"
+          },
+          {
+            "title": "Taste For Makers",
+            "url":"https://mindmine.substack.com/p/ambition-as-a-fingerprint",
+            "time": "~15 min"
+          }
+        ],
+        "tweets": [
+          {
+            "text": "the real comparative advantage",
+            "url": "https://twitter.com/startingfromnix/status/1588595989761249280",
+            "time": "@startingfromnix"
+          },
+          {
+            "text": "hate being asked by someone why I love them",
+            "url": "https://twitter.com/yashkaf/status/1612342484474155009",
+            "time": "@yashkaf"
+          }
+        ],
+        "misc": [
+          {
+            "title": "I love it when you",
+            "url": "https://ifyouknewmewouldyoulove.me/too/",
+            "time": "website"
+          },
+          {
+            "title": "The Infinite Monkey Theorem Experiment",
+            "url": "https://pudding.cool/2020/04/infinite/",
+            "time": "interactive"
+          }
+        ],
+        "question": "What was the last thing you changed your mind about?"
       }
     ]
   }
