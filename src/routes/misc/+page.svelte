@@ -7,7 +7,7 @@
     import { base } from "$app/paths";
   </script>
 
-<h1>misc</h1>
+<h1>Miscellaneous</h1>
     <ul class="archive">
         <li><a href="{base}/links">Weekly Links</a><small><time>newsletter</time></small></li>
     </ul>

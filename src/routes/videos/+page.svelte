@@ -3,7 +3,7 @@
     <meta property="og:title" content=unoptimal />
   </svelte:head>
 
-<h1>videos</h1>
+<h1>Videos</h1>
 * indicate personal favorites
 
 <ul class="archive">

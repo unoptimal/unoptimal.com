@@ -25,7 +25,7 @@
 
 </script>
 
-<h1>essays</h1>
+<h1>Essays</h1>
 * indicate personal favorites
 
 <ul>

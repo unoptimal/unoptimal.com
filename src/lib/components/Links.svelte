@@ -8,7 +8,7 @@
       issues = data.issues;
     });
 
-    const duration = 0.3 // seconds
+    const duration = 0.275 // seconds
     const easing = 'linear'
 
   </script>
@@ -44,10 +44,12 @@
             </ul>
           </div>
         {/each}
+        {#if issue.question}
         <h4>Question Of The Week:</h4>
           <ul>
             <li>{issue.question}</li>
           </ul>
+        {/if}
       </div>
 
     </AccordionItem>
