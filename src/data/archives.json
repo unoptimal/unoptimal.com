@@ -1,0 +1,86 @@
+[
+    {
+        "title": "unoptimal-xp",
+        "description": "This website, but in the style of Windows XP. Not mobile friendly.",
+        "medium": "digital",
+        "link": "https://unoptimal-windows-xp.vercel.app/"
+    },
+    {
+        "title": "Create your own Thaddeus Young graphic",
+        "description": "Who else is in the 13.5/5.9/1.4/49%/30% club?",
+        "medium": "digital",
+        "link": "https://unoptimal.github.io/cherry-picked-nba/"
+    },
+    {
+        "title": "Josh Hart High Five Tracker",
+        "description": "Every recorded high five attempt that NBA player Josh Hart has missed.",
+        "medium": "digital",
+        "link": "https://unoptimal.github.io/josh-hart-high-fives/"
+    },
+    {
+        "title": "Salted Circus Cashews",
+        "description": "Please enjoy these freshly salted circus cashews, courtesy of The Cashew Company.",
+        "medium": "physical",
+        "link": "https://www.instagram.com/p/Ct-LxdVpGxQ/"
+    },
+    {
+        "title": "Affirmation Button",
+        "description": "A button to affirm your existing beliefs.",
+        "medium": "physical",
+        "link": "https://www.instagram.com/p/CuDKnuPpGpV/"
+    },
+    {
+        "title": "a psa for the dreamers",
+        "description": "Not advice. I am just yelling at myself.",
+        "medium": "video",
+        "link": "https://www.youtube.com/watch?v=A5QlLUUroiIm"
+    },
+    {
+        "title": "the world is a very malleable place",
+        "description": "Alternatively, an introduction to agency.",
+        "medium": "video",
+        "link": "https://www.youtube.com/watch?v=2fERmfmVb58"
+    },
+    {
+        "title": "beauty is in the details",
+        "description": "'What is something you find beautiful? Why? (300 words max.)'",
+        "medium": "video",
+        "link": "https://www.google.com"
+    },
+    {
+        "title": "it starts with spontaneity",
+        "description": "The finale of a series of videos that were made on a whim.",
+        "medium": "video",
+        "link": "https://www.youtube.com/watch?v=hsfLmZ7vk7A"
+    },
+    {
+        "title": "An introduction to backpage content",
+        "description": "An attempt to describe my creative taste.",
+        "medium": "writing",
+        "link": "https://unoptimal.substack.com/p/an-introduction-to-backpage-content"
+    },
+    {
+        "title": "Cultivating the right itches",
+        "description": "Thinking about what makes me feel alive.",
+        "medium": "writing",
+        "link": "https://unoptimal.substack.com/p/cultivating-the-right-itches"
+    },
+    {
+        "title": "There are no rules",
+        "description": "'You can just do things'.",
+        "medium": "writing",
+        "link": "https://unoptimal.substack.com/p/there-are-no-rules"
+    },
+    {
+        "title": "Reflections on a year of college",
+        "description": "A compilation of college advice.",
+        "medium": "writing",
+        "link": "https://unoptimal.substack.com/p/reflections-on-a-year-of-college"
+    },
+    {
+        "title": "The Death of High School Passion",
+        "description": "A verbose four part series where I tried to understand where it all went wrong.",
+        "medium": "writing",
+        "link": "https://unoptimal.substack.com/p/the-death-of-high-school-passion"
+    }
+]

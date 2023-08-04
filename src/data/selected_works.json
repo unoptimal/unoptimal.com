@@ -1,0 +1,51 @@
+[
+    {
+        "id": "snail-is-inevitable",
+        "title": "Snail is Inevitable",
+        "description": "A chrome extension that sets a snail off to relentlessly hunt your cursor FOREVER.",
+        "thumbnail": "/snail.png"
+        },
+    {
+        "id": "touch-grass",
+        "title": "Touching Grass",
+        "description": "This is how you touch grass without doing anything that remotely resembles offline behavior.",
+        "thumbnail": "/grass.png"
+    },
+    {
+        "id": "onion-test",
+        "title": "The Onion Test",
+        "description": "A game that asks two questions: 'Was this headline written by the Onion?' and 'How sure are you about that?'",
+        "thumbnail": "/onion.png"
+    },
+    {
+        "id": "bojack",
+        "title": "I tracked every running gag in Bojack Horseman",
+        "description": "...and mapped them onto an interactive timeline.",
+        "thumbnail": "/bojack.png"
+    },
+    {
+        "id": "pencil-journey",
+        "title": "The Journey of a Pencil",
+        "description": "Visualizing Leonard Read's I, Pencil in a scrollytell.",
+        "thumbnail": "/pencil.PNG"
+    },
+    {
+        "id": "grandeur",
+        "title": "Grandeur",
+        "description": "Reimagining college as a SaaS buisness. Kind of.",
+        "thumbnail": "/grandeur.PNG"
+    },
+    {
+        "id": "day-in-the-life",
+        "title": "a day in the life of students who make 'a day in the life' videos",
+        "description": "This is a very serious day in the life video.",
+        "thumbnail": "/day.png"
+    },
+    {
+        "id": "college-application",
+        "title": "The College Application Process in a Nutshell",
+        "description": "I had so much fun applying to college.",
+        "thumbnail": "/college_admissions.png"
+    }
+   
+]
