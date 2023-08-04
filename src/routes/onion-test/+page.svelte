@@ -14,7 +14,7 @@
 
 <div id='container'>
     <h1>The Onion Test</h1>
-    <img src="/onion.png" alt="" style='display:block'>
+    <img src="/onion.webp" alt="" style='display:block'>
 
     <p>The <a href='https://www.urbandictionary.com/define.php?term=Onion%20test'>Onion test</a> is a test to see if a headline sounds
         like it could have been written by the satirical newspaper <a href='https://www.theonion.com/'>The Onion</a>.

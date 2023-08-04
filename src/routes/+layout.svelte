@@ -1,6 +1,6 @@
 <header>
     <div class="logo-section">
-        <a href="/"><img src='/logo.png'></a>
+        <a href="/"><img src='/logo.png' alt='logo'></a>
         <a href='/' class="title"><b>unoptimal</b></a>
     </div>
 
@@ -11,19 +11,19 @@
 
     <div class="social-section">
 
-        <a href="https://youtube.com/@unoptimal" target="_blank">
+        <a href="https://youtube.com/@unoptimal" target="_blank" aria-label="youtube">
             <i class="fab fa-youtube"></i>
         </a>
 
-        <a href="https://twitter.com/thatsnotoptimal" target="_blank">
+        <a href="https://twitter.com/thatsnotoptimal" target="_blank" aria-label="twitter">
             <i class="fab fa-twitter"></i>
         </a>
 
-        <a href="https://instagram.com/thatsnotoptimal" target="_blank">
+        <a href="https://instagram.com/thatsnotoptimal" target="_blank" aria-label="instagram">
             <i class="fab fa-instagram"></i>
         </a>
 
-        <a href="https://github.com/unoptimal" target="_blank">
+        <a href="https://github.com/unoptimal" target="_blank" aria-label="github">
             <i class="fab fa-github"></i>
         </a>     
 

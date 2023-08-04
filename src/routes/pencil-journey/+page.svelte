@@ -14,7 +14,7 @@
 
 <div id='container'>
     <h1>The Journey of a Pencil</h1>
-    <img src="/pencil.PNG" alt="" style='display:block'>
+    <img src="/pencil.webp" alt="" style='display:block'>
 
     <p>Leonard Read's essay <i><a href='https://en.wikipedia.org/wiki/I,_Pencil'>I, Pencil</a></i> walks through the complex social coordination
         needed to make even a simple pencil.</p>

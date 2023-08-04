@@ -14,7 +14,7 @@
 
 <div id='container'>
     <h1>Snail is Inevitable</h1>
-    <img src="/snail.png" alt="" style='display:block'>
+    <img src="/snail.webp" alt="" style='display:block'>
     <img src="/snail2.png" alt="" style='display:block'>
     <img src="/snail3.png" alt="" style='display:block'>
 

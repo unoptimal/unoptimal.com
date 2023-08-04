@@ -14,8 +14,8 @@
 
 <div id='container'>
     <h1>Grandeur</h1>
-    <img src="/grandeur.PNG" alt="" style='display:block'>
-    <img src="/grandeur2.PNG" alt="" style='display:block'>
+    <img src="/grandeur.webp" alt="" style='display:block'>
+    <img src="/grandeur2.webp" alt="" style='display:block'>
     <div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; margin: 0 auto;">
         <iframe src="https://www.youtube.com/embed/kIpOuMnGpt4" title="What is Grandeur?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; margin: 0;"></iframe>
     </div>
