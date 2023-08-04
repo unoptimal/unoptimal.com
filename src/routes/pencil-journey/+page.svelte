@@ -1,3 +1,17 @@
+<script context="module">
+    export async function load({ page, fetch }) {
+        return {
+            props: {}
+        };
+    }
+</script>
+
+<svelte:head>
+    <title>The Journey of a Pencil</title>
+    <meta name="description" content="Visualizing Leonard Read's essay I, Pencil">
+</svelte:head>
+
+
 <div id='container'>
     <h1>The Journey of a Pencil</h1>
     <img src="/pencil.PNG" alt="" style='display:block'>

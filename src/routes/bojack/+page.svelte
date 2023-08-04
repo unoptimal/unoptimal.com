@@ -1,3 +1,16 @@
+<script context="module">
+    export async function load({ page, fetch }) {
+        return {
+            props: {}
+        };
+    }
+</script>
+
+<svelte:head>
+    <title>I tracked every running gag in Bojack Horseman</title>
+    <meta name="description" content="...and mapped them onto an interactive timeline">
+</svelte:head>
+
 <div id='container'>
     <h1>I tracked every running gag in Bojack Horseman</h1>
     <div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; margin: 0 auto;">

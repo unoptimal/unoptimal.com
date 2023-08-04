@@ -1,3 +1,17 @@
+<script context="module">
+    export async function load({ page, fetch }) {
+        return {
+            props: {}
+        };
+    }
+</script>
+
+<svelte:head>
+    <title>a day in the life of student who make 'a day in the life' video</title>
+    <meta name="description" content="Let me show you what a REAL day in the life looks like.">
+</svelte:head>
+
+
 <div id='container'>
     <h1>a day in the life of students who make 'a day in the life' videos</h1>
     <div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; margin: 0 auto;">

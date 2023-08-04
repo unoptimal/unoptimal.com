@@ -1,3 +1,16 @@
+<script context="module">
+    export async function load({ page, fetch }) {
+        return {
+            props: {}
+        };
+    }
+</script>
+
+<svelte:head>
+    <title>archives</title>
+    <meta name="description" content="other stuff i've made">
+</svelte:head>
+
 <script>
     import data from "../../data/archives.json"
 

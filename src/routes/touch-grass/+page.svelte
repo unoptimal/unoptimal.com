@@ -1,3 +1,17 @@
+<script context="module">
+    export async function load({ page, fetch }) {
+        return {
+            props: {}
+        };
+    }
+</script>
+
+<svelte:head>
+    <title>Touching Grass</title>
+    <meta name="description" content="This is how you touch grass without doing anything remotely resembling offline behavior.">
+</svelte:head>
+
+
 <div id='container'>
     <h1>Touching Grass</h1>
     <video controls style="width: 100%;">
@@ -20,7 +34,7 @@
         margin: 0 auto;
     }
     video{
-        padding-bottom:20px
+        padding-bottom:20px;
     }
     h1{
         font-size: 2.75em;

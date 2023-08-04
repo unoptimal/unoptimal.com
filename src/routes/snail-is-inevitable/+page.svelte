@@ -1,3 +1,17 @@
+<script context="module">
+    export async function load({ page, fetch }) {
+        return {
+            props: {}
+        };
+    }
+</script>
+
+<svelte:head>
+    <title>Snail is Inevitable</title>
+    <meta name="description" content="A snail follows your cursor FOREVER.">
+</svelte:head>
+
+
 <div id='container'>
     <h1>Snail is Inevitable</h1>
     <img src="/snail.png" alt="" style='display:block'>

@@ -1,3 +1,17 @@
+<script context="module">
+    export async function load({ page, fetch }) {
+        return {
+            props: {}
+        };
+    }
+</script>
+
+<svelte:head>
+    <title>The College Application Process in a Nutshell</title>
+    <meta name="description" content="Applying to college is certainly an Experience.">
+</svelte:head>
+
+
 <div id='container'>
     <h1>The College Application Process in a Nutshell</h1>
 

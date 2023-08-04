@@ -1,3 +1,16 @@
+<script context="module">
+    export async function load({ page, fetch }) {
+        return {
+            props: {}
+        };
+    }
+</script>
+
+<svelte:head>
+    <title>unoptimal</title>
+    <meta name="description" content="i like making things :)">
+</svelte:head>
+
 <script>
     import data from "../data/selected_works.json";
 </script>

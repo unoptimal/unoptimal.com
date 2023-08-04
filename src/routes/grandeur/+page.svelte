@@ -1,3 +1,17 @@
+<script context="module">
+    export async function load({ page, fetch }) {
+        return {
+            props: {}
+        };
+    }
+</script>
+
+<svelte:head>
+    <title>Grandeur</title>
+    <meta name="description" content="Reimagining college as a SaaS buisness. Kind of.">
+</svelte:head>
+
+
 <div id='container'>
     <h1>Grandeur</h1>
     <img src="/grandeur.PNG" alt="" style='display:block'>

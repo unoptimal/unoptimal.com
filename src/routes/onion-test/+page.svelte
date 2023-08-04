@@ -1,3 +1,17 @@
+<script context="module">
+    export async function load({ page, fetch }) {
+        return {
+            props: {}
+        };
+    }
+</script>
+
+<svelte:head>
+    <title>The Onion Test</title>
+    <meta name="description" content="Was this headline written by the Onion? How sure are you?">
+</svelte:head>
+
+
 <div id='container'>
     <h1>The Onion Test</h1>
     <img src="/onion.png" alt="" style='display:block'>

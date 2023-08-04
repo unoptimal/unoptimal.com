@@ -1,3 +1,17 @@
+<script context="module">
+    export async function load({ page, fetch }) {
+        return {
+            props: {}
+        };
+    }
+</script>
+
+<svelte:head>
+    <title>about</title>
+    <meta name="description" content="i like making things">
+</svelte:head>
+
+
 <div id='container'>
 <h1>hi! i'm justin. i like making things.</h1>
 <img src="/me.PNG" alt="">
