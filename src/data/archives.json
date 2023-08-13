@@ -6,16 +6,16 @@
         "link": "https://unoptimal-windows-xp.vercel.app/"
     },
     {
-        "title": "Create your own Thaddeus Young graphic",
-        "description": "Who else is in the 13.5/5.9/1.4/49%/30% club?",
-        "medium": "digital",
-        "link": "https://unoptimal.github.io/cherry-picked-nba/"
-    },
-    {
         "title": "Josh Hart High Five Tracker",
         "description": "Every recorded high five attempt that NBA player Josh Hart has missed.",
         "medium": "digital",
         "link": "https://unoptimal.github.io/josh-hart-high-fives/"
+    },
+    {
+        "title": "The Journey of a Pencil",
+        "description": "A scrollytell of Leonard E. Read's essay 'I, Pencil'.",
+        "medium": "digital",
+        "link": "https://pencil-journey.vercel.app/"
     },
     {
         "title": "Salted Circus Cashews",

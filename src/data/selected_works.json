@@ -1,5 +1,11 @@
 [
     {
+        "id": "wider-pringles-cans",
+        "title": "Wider Pringles Cans",
+        "description": "Never get your hands stuck inside a Pringles Can again.",
+        "thumbnail": "/pringles.webp"
+        },
+    {
         "id": "snail-is-inevitable",
         "title": "Snail is Inevitable",
         "description": "A chrome extension that sets a snail off to relentlessly hunt your cursor FOREVER.",
@@ -22,12 +28,6 @@
         "title": "I tracked every running gag in Bojack Horseman",
         "description": "...and mapped them onto an interactive timeline.",
         "thumbnail": "/bojack.webp"
-    },
-    {
-        "id": "pencil-journey",
-        "title": "The Journey of a Pencil",
-        "description": "Visualizing Leonard Read's I, Pencil in a scrollytell.",
-        "thumbnail": "/pencil.webp"
     },
     {
         "id": "grandeur",
