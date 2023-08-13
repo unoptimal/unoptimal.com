@@ -59,6 +59,10 @@
             height: auto;
             padding: 0 20px;
         }
+        img{
+            padding: 0 20px;
+
+        }
     }
 
 </style>
