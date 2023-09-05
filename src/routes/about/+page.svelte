@@ -19,7 +19,7 @@
 <p>in particular: absurd, whimsical and playful things. the term i've adopted from my high school newspaper in an attempt to describe this is
     <a href='https://unoptimal.substack.com/p/an-introduction-to-backpage-content' target='_blank'>"backpage content"</a>. will report back when i figure out what that means.</p>
 
-<p>these days i usually find myself making videos and interactive web content while trying to get into physical computing and design.
+<p>these days i usually find myself dabbling with interactive web content while trying to get into physical computing and design.
     i don't really know what means, but it sounds legible enough.
 
 </p>
