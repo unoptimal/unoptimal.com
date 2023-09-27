@@ -1,15 +1,15 @@
 [
     {
+        "id": "meeting-buttons",
+        "title": "this meeting ends when most people decide it SUCKS",
+        "description": "Minimize wasted time in terrible meetings with this state of the art technology.",
+        "thumbnail": "/meeting.webp"
+        },
+    {
         "id": "wider-pringles-cans",
         "title": "Wider Pringles Cans",
         "description": "Never get your hands stuck inside a Pringles Can again.",
         "thumbnail": "/pringles.webp"
-        },
-    {
-        "id": "snail-is-inevitable",
-        "title": "Snail is Inevitable",
-        "description": "A chrome extension that sets a snail off to relentlessly hunt your cursor FOREVER.",
-        "thumbnail": "/snail.webp"
         },
     {
         "id": "touch-grass",

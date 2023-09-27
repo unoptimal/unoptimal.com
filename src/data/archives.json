@@ -1,5 +1,11 @@
 [
     {
+        "title": "ChatGPT YouTube Player",
+        "description": "My zoomer brain doesn't know what to do when ChatGPT is generating a response",
+        "medium": "digital",
+        "link": "    https://chrome.google.com/webstore/detail/chatgpt-youtube-player/kagjbfcmbohanfgmphliphhgnmlllchi?hl=en&authuser=0"
+    },
+    {
         "title": "it's so over / we're so back",
         "description": "Mike Bodge's HEEEY HOOO, but modernized.",
         "medium": "digital",
@@ -12,6 +18,12 @@
         "link": "https://unoptimal-windows-xp.vercel.app/"
     },
     {
+        "title": "Snail is Inevitable",
+        "description": "A chrome extension that sets a snail off to relentlessly hunt your cursor FOREVER.",
+        "medium": "digital",
+        "link": "https://chrome.google.com/webstore/detail/snail-is-inevitable/nfeomodjclpbblbenogffoaifdkdnnoh?hl=en"
+    },
+    {
         "title": "Josh Hart High Five Tracker",
         "description": "Every recorded high five attempt that NBA player Josh Hart has missed.",
         "medium": "digital",
@@ -22,18 +34,6 @@
         "description": "A scrollytell of Leonard E. Read's essay 'I, Pencil'.",
         "medium": "digital",
         "link": "https://pencil-journey.vercel.app/"
-    },
-    {
-        "title": "Salted Circus Cashews",
-        "description": "Please enjoy these freshly salted circus cashews, courtesy of The Cashew Company.",
-        "medium": "physical",
-        "link": "https://www.instagram.com/p/Ct-LxdVpGxQ/"
-    },
-    {
-        "title": "Affirmation Button",
-        "description": "A button to affirm your existing beliefs.",
-        "medium": "physical",
-        "link": "https://www.instagram.com/p/CuDKnuPpGpV/"
     },
     {
         "title": "we tried making ai art in the park",
