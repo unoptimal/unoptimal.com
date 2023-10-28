@@ -1,5 +1,13 @@
 [
     {
+        
+        "id": "screaming-backpack",
+        "title": "my backpack screams when someone else picks it up",
+        "description": "Now THIS is truly a cutting edge anti-theft mechanism.",
+        "thumbnail": "/backpack1.webp"
+        },
+    {
+        
         "id": "meeting-buttons",
         "title": "this meeting ends when most people decide it SUCKS",
         "description": "Minimize wasted time in terrible meetings with this state of the art technology.",
