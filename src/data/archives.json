@@ -1,10 +1,18 @@
 [
     {
+        "title": "The Sisyph-inbox",
+        "description": "Every time you delete an email, it sends you one back.",
+        "medium": "digital",
+        "link": " https://twitter.com/thatsnotoptimal/status/1721374946574909778"
+    },
+    {
         "title": "ChatGPT YouTube Player",
         "description": "My zoomer brain doesn't know what to do when ChatGPT is generating a response",
         "medium": "digital",
         "link": "    https://chrome.google.com/webstore/detail/chatgpt-youtube-player/kagjbfcmbohanfgmphliphhgnmlllchi?hl=en&authuser=0"
     },
+
+    
     {
         "title": "it's so over / we're so back",
         "description": "Mike Bodge's HEEEY HOOO, but modernized.",
