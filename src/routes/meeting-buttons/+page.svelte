@@ -7,13 +7,13 @@
 </script>
 
 <svelte:head>
-    <title>this meeting ends when most people decide it SUCKS</title>
+    <title>End Meeting Buttons</title>
     <meta name="description" content="Minimize wasted time in terrible meetings with this new technology.">
 </svelte:head>
 
 
 <div id='container'>
-    <h1>this meeting ends when most people decide it SUCKS</h1>
+    <h1>End Meeting Buttons</h1>
 
     <div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; margin: 0 auto;">
         <iframe src="https://www.youtube.com/embed/L1zs8c32Kqs" title="this meeting ends when most people decide it SUCKS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; margin: 0;"></iframe>
