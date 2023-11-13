@@ -1,4 +1,11 @@
 [
+    
+    {
+        "title": "Whac-A-Captcha",
+        "description": "Whac-A-Mole x reCAPTCHA.",
+        "medium": "digital",
+        "link": "https://unoptimal.github.io/whac-a-captcha/"
+    },
     {
         "title": "The Sisyph-inbox",
         "description": "Every time you delete an email, it sends you one back.",
@@ -11,19 +18,11 @@
         "medium": "digital",
         "link": "    https://chrome.google.com/webstore/detail/chatgpt-youtube-player/kagjbfcmbohanfgmphliphhgnmlllchi?hl=en&authuser=0"
     },
-
-    
     {
         "title": "it's so over / we're so back",
         "description": "Mike Bodge's HEEEY HOOO, but modernized.",
         "medium": "digital",
         "link": "https://unoptimal.github.io/its-so-over/"
-    },
-    {
-        "title": "unoptimal-xp",
-        "description": "This website, but in the style of Windows XP. Not mobile friendly.",
-        "medium": "digital",
-        "link": "https://unoptimal-windows-xp.vercel.app/"
     },
     {
         "title": "Snail is Inevitable",
