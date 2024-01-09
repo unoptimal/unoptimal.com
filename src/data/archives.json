@@ -1,5 +1,10 @@
 [
-    
+    {
+        "title": "Automated Ragequitting",
+        "description": "Closes the active Chrome tab if your BPM gets too high.",
+        "medium": "digital",
+        "link": "https://www.instagram.com/p/C0dVGGdLR89/"
+    },
     {
         "title": "Whac-A-Captcha",
         "description": "Whac-A-Mole x reCAPTCHA.",
@@ -14,7 +19,7 @@
     },
     {
         "title": "ChatGPT YouTube Player",
-        "description": "My zoomer brain doesn't know what to do when ChatGPT is generating a response",
+        "description": "Plays a video while ChatGPT generates a response.",
         "medium": "digital",
         "link": "    https://chrome.google.com/webstore/detail/chatgpt-youtube-player/kagjbfcmbohanfgmphliphhgnmlllchi?hl=en&authuser=0"
     },
@@ -26,13 +31,13 @@
     },
     {
         "title": "Snail is Inevitable",
-        "description": "A chrome extension that sets a snail off to relentlessly hunt your cursor FOREVER.",
+        "description": "A snail that relentlessly hunts your cursor FOREVER.",
         "medium": "digital",
         "link": "https://chrome.google.com/webstore/detail/snail-is-inevitable/nfeomodjclpbblbenogffoaifdkdnnoh?hl=en"
     },
     {
         "title": "Josh Hart High Five Tracker",
-        "description": "Every recorded high five attempt that NBA player Josh Hart has missed.",
+        "description": "Every one of Josh Hart's botched high five attempts.",
         "medium": "digital",
         "link": "https://unoptimal.github.io/josh-hart-high-fives/"
     },
@@ -44,7 +49,7 @@
     },
     {
         "title": "we tried making ai art in the park",
-        "description": "we brought midjourney and an axidraw to washington square park. results: inconclusive",
+        "description": "We brought midjourney and an axidraw to washington square park. Results: inconclusive",
         "medium": "video",
         "link": "https://youtu.be/kIqXwM-Ak34"
     },

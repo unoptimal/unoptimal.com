@@ -16,9 +16,9 @@
 <h1>hi! i'm justin. i like making things.</h1>
 <img src="/me.PNG" alt="">
 
-<p>in particular: absurd, whimsical, and playful things. these days i usually find myself dabbling with DIY electronics and interactive web content.</p>
+<p>in particular: absurd, whimsical, and playful things. call them proofs of concepts.</p>
 
-<p>previously, i wrote (and deleted) a lot of <a href='https://unoptimal.substack.com/' target='_blank'>essays</a>. from time to time i make <a href='https://www.youtube.com/@unoptimal' target='_blank'>videos</a>. i also save a lot of stuff on <a href='https://curius.app/unoptimal' target='_blank'>curius</a>.</p>
+<p>sometimes, i write <a href='https://unoptimal.substack.com/' target='_blank'>essays</a> and make <a href='https://www.youtube.com/@unoptimal' target='_blank'>videos</a>. i can also be found saving stuff on <a href='https://curius.app/unoptimal' target='_blank'>curius</a>.</p>
 
 <p>i like new friends. <a href='mailto:unoptimalblogs@gmail.com'>say hi!</a> (wherever you prefer)</p>
 </div>
