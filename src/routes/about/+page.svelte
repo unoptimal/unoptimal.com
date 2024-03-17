@@ -13,14 +13,22 @@
 
 
 <div id='container'>
-<h1>hi! i'm justin. i like making things.</h1>
-<img src="/me.PNG" alt="">
 
-<p>in particular: absurd, whimsical, and playful things. call them proofs of concepts.</p>
+    <h1>About</h1>
+    <img src="/me.PNG" alt="">
 
-<p>sometimes, i write <a href='https://unoptimal.substack.com/' target='_blank'>essays</a> and make <a href='https://www.youtube.com/@unoptimal' target='_blank'>videos</a>. i can also be found saving stuff on <a href='https://curius.app/unoptimal' target='_blank'>curius</a>.</p>
+<p>hello. i like making things. </p>
+<p>
+    i try to avoid pidgenholing myself into specific labels or mediums.
+    if an idea is compelling enough, i bring it to life. 
+</p>
 
-<p>i like new friends. <a href='mailto:unoptimalblogs@gmail.com'>say hi!</a> (wherever you prefer)</p>
+<p>
+    i've built websites, assembled electronics, made <a href='https://www.youtube.com/@unoptimal/featured'>videos</a>, and written <a href='https://unoptimal.substack.com/'>blogposts</a>.   
+    more to come.
+</p>
+
+<p>i like new friends. feel free to <a href='mailto:unoptimalblogs@gmail.com'>say hi!</a></p>
 </div>
 
 <style>

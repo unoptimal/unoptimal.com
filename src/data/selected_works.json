@@ -3,57 +3,50 @@
         
         "id": "screaming-backpack",
         "title": "Anti-Theft Screaming Backpack",
-        "description": "Now THIS is truly a cutting edge anti-theft mechanism.",
-        "thumbnail": "/backpack1.webp"
+        "description": "An armable contraption that SCREAMS if someone picks it up.",
+        "thumbnail": "/screaming_backpack.gif"
         },
     {
-        
         "id": "meeting-buttons",
-        "title": "End Meeting Buttons",
-        "description": "Minimize wasted time in terrible meetings with this state of the art technology.",
-        "thumbnail": "/meeting.webp"
-        },
+        "title": "\"End Meeting\" Buttons",
+        "description": "Everyone gets a button. If enough people press theirs, the meeting ends via a very loud siren.",
+        "thumbnail": "/meeting_buttons.gif"
+    },
     {
-        "id": "wider-pringles-cans",
-        "title": "Wider Pringles Cans",
-        "description": "Never get your hands stuck inside a Pringles Can again.",
-        "thumbnail": "/pringles.webp"
-        },
+        "id": "sisphyinbox",
+        "title": "The Sisyph-inbox",
+        "description": "Every time you delete an email, this Chrome extension sends you one back.",
+        "thumbnail": "/sisphyinbox.gif"
+    },
     {
         "id": "touch-grass",
         "title": "Touching Grass",
-        "description": "This is how you touch grass without doing anything that remotely resembles offline behavior.",
-        "thumbnail": "/grass.webp"
-    },
-    {
-        "id": "onion-test",
-        "title": "The Onion Test",
-        "description": "A game that asks two questions: 'Was this headline written by the Onion?' and 'How sure are you about that?'",
-        "thumbnail": "/onion.webp"
+        "description": "Instead of going outside, turn your laptop off by touching this houseplant.",
+        "thumbnail": "/touching_grass.gif"
     },
     {
         "id": "bojack",
         "title": "I tracked every running gag in Bojack Horseman",
-        "description": "...and mapped them onto an interactive timeline.",
+        "description": "...and mapped them onto an interactive timeline. And also a video.",
         "thumbnail": "/bojack.webp"
     },
     {
-        "id": "grandeur",
-        "title": "Grandeur",
-        "description": "Reimagining college as a SaaS buisness. Kind of.",
-        "thumbnail": "/grandeur.webp"
+        "id": "automated-ragequitting",
+        "title": "Automated Ragequitting",
+        "description": "A custom mechanism that closes the active tab if my BPM gets too high.",
+        "thumbnail": "/automated_ragequitting.gif"
     },
     {
-        "id": "day-in-the-life",
-        "title": "a day in the life of students who make 'a day in the life' videos",
-        "description": "This is a very serious day in the life video.",
-        "thumbnail": "/day.webp"
+        "id": "wider-pringles-cans",
+        "title": "Wider Pringles Cans",
+        "description": "Never get your hand stuck inside a Pringles Can again.",
+        "thumbnail": "/pringles.gif"
     },
     {
-        "id": "college-application",
-        "title": "The College Application Process in a Nutshell",
-        "description": "I had so much fun applying to college.",
-        "thumbnail": "/college_admissions.webp"
-    }
-   
+        "id": "onion-test",
+        "title": "The Onion Test",
+        "description": "A game that asks two questions: 'Was this headline written by the Onion?' and 'How sure are you?'",
+        "thumbnail": "/onion.gif"
+    }   
+    
 ]

@@ -1,21 +1,15 @@
 [
     {
-        "title": "Automated Ragequitting",
-        "description": "Closes the active Chrome tab if your BPM gets too high.",
+        "title": "Grandeur",
+        "description": "Reimagining college as a SaaS product.",
         "medium": "digital",
-        "link": "https://www.instagram.com/p/C0dVGGdLR89/"
+        "link": "https://grandeur-six.vercel.app/"
     },
     {
         "title": "Whac-A-Captcha",
         "description": "Whac-A-Mole x reCAPTCHA.",
         "medium": "digital",
         "link": "https://unoptimal.github.io/whac-a-captcha/"
-    },
-    {
-        "title": "The Sisyph-inbox",
-        "description": "Every time you delete an email, it sends you one back.",
-        "medium": "digital",
-        "link": " https://twitter.com/thatsnotoptimal/status/1721374946574909778"
     },
     {
         "title": "ChatGPT YouTube Player",
@@ -31,51 +25,27 @@
     },
     {
         "title": "Snail is Inevitable",
-        "description": "A snail that relentlessly hunts your cursor FOREVER.",
+        "description": "A chrome extension that hunts your cursor FOREVER.",
         "medium": "digital",
         "link": "https://chrome.google.com/webstore/detail/snail-is-inevitable/nfeomodjclpbblbenogffoaifdkdnnoh?hl=en"
     },
     {
-        "title": "Josh Hart High Five Tracker",
-        "description": "Every one of Josh Hart's botched high five attempts.",
-        "medium": "digital",
-        "link": "https://unoptimal.github.io/josh-hart-high-fives/"
-    },
-    {
-        "title": "The Journey of a Pencil",
-        "description": "A scrollytell of Leonard E. Read's essay 'I, Pencil'.",
-        "medium": "digital",
-        "link": "https://pencil-journey.vercel.app/"
-    },
-    {
         "title": "we tried making ai art in the park",
-        "description": "We brought midjourney and an axidraw to washington square park. Results: inconclusive",
+        "description": "We tried making AI portraits of passerbys with Midjourney and an Axidraw.",
         "medium": "video",
         "link": "https://youtu.be/kIqXwM-Ak34"
     },
     {
-        "title": "a psa for the dreamers",
-        "description": "Not advice. I am just yelling at myself.",
+        "title": "a day in the life of students who make 'a day in the life' videos",
+        "description": "\"Day in the life\" videos are too productive and picturesque, so I made a realistic one.",
         "medium": "video",
-        "link": "https://www.youtube.com/watch?v=A5QlLUUroiIm"
+        "link": "https://www.youtube.com/watch?v=8p7pphdSOYk"
     },
     {
-        "title": "the world is a very malleable place",
-        "description": "Alternatively, an introduction to agency.",
+        "title": "The College Application Process in a Nutshell",
+        "description": "I did NOT enjoy applying to college. ",
         "medium": "video",
-        "link": "https://www.youtube.com/watch?v=2fERmfmVb58"
-    },
-    {
-        "title": "beauty is in the details",
-        "description": "'What is something you find beautiful? Why? (300 words max.)'",
-        "medium": "video",
-        "link": "https://www.google.com"
-    },
-    {
-        "title": "it starts with spontaneity",
-        "description": "The finale of a series of videos that were made on a whim.",
-        "medium": "video",
-        "link": "https://www.youtube.com/watch?v=hsfLmZ7vk7A"
+        "link": "https://www.youtube.com/watch?v=EGMkrnQMNjg"
     },
     {
         "title": "Cultivating the right itches",
@@ -85,7 +55,7 @@
     },
     {
         "title": "There are no rules",
-        "description": "'You can just do things'.",
+        "description": "You can just do things.",
         "medium": "writing",
         "link": "https://unoptimal.substack.com/p/there-are-no-rules"
     },

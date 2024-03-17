@@ -15,7 +15,8 @@
     import data from "../data/selected_works.json";
 </script>
 
-<h1>Selected Work</h1>
+<h1>Hi! I'm Justin. </h1>
+<h3 id='desc'>I'm a creative developer who likes making whimsical things on the Internet. Call them proofs of concepts.</h3>
 
 <div class="container">
     <div class="grid">
@@ -51,6 +52,10 @@
     h1 {
             padding: 0 15px;
         }
+
+    #desc{
+        padding: 0 15px;
+    }
 
     img {
         width: 100%;

@@ -14,6 +14,14 @@
 
 <div id='container'>
     <h1>Wider Pringles Cans</h1>
+
+    <p>In 2016, Bo Burnham delivered an <a href='https://www.youtube.com/watch?v=rYy0o-J0x20' target="_blank">impassioned rant</a> on the limited radius of a Pringles can.
+        That performance has stuck with me since. Which is why I've created this very serious mockup of a Pringles can, but wider.
+    </p>
+    <p>Never get your hand stuck inside of a Pringles can again.</p>
+    
+    <p>View the website <a href='https://wider-pringles-cans.vercel.app/' target='_blank'>here</a>, and the video <a href='https://www.youtube.com/watch?v=4TBWZnceI9o' target='_blank'>here</a>.</p>
+
     <img src="/pringles2.webp" alt="" style='display:block'>
     <img src="/pringles3.webp" alt="" style='display:block'>
 
@@ -21,8 +29,7 @@
         <iframe src="https://www.youtube.com/embed/4TBWZnceI9o" title="Introducing: Wider Pringles Cans" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; margin: 0;"></iframe>
     </div>
 
-    <p>Never get your hand stuck inside of a Pringles can again.</p>
-    <p>View the website <a href='https://wider-pringles-cans.vercel.app/' target='_blank'>here</a>, and the video <a href='https://www.youtube.com/watch?v=4TBWZnceI9o' target='_blank'>here</a>.</p>
+    
 </div>
 
 

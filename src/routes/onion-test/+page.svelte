@@ -14,14 +14,15 @@
 
 <div id='container'>
     <h1>The Onion Test</h1>
-    <img src="/onion.webp" alt="" style='display:block'>
 
     <p>The <a href='https://www.urbandictionary.com/define.php?term=Onion%20test'>Onion test</a> is a test to see if a headline sounds
         like it could have been written by the satirical newspaper <a href='https://www.theonion.com/'>The Onion</a>.
     </p>
     <p>Inspired by this, I scraped a bunch of entries from <a href='https://www.reddit.com/r/TheOnion'>r/TheOnion</a> and <a href='https://www.reddit.com/r/nottheonion/'>r/nottheonion</a>
-    and made a game out of it. You also have to report a confidence level and are rewarded points accordingly. You might be surprised about some of the entries.</p>
+    and made a game out of it. 
+    To make things more interesting, you also have to report a confidence level and are rewarded points accordingly.</p>
     <p>View the project <a href='https://unoptimal.github.io/the-onion-test/' target='_blank'>here</a>.</p>
+    <img src="/onion.gif" alt="" style='display:block'>
 </div>
 
 <style>
