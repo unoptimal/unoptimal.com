@@ -19,7 +19,7 @@
 
 <p>hello. i like making things. </p>
 <p>
-    i try to avoid pidgenholing myself into specific labels or mediums.
+    i try to avoid pigeonholing myself into specific labels or mediums.
     if an idea is compelling enough, i bring it to life. 
 </p>
 

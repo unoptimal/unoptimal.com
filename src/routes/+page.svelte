@@ -45,8 +45,8 @@
     .grid {
         display: grid;
         grid-template-columns: repeat(2, minmax(300px, 1fr));
-        gap: 20px;
-        padding: 0 20px;
+        gap: 60px;
+        padding: 0 15px;
         margin: 0 auto;
     }
     h1 {
