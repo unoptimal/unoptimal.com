@@ -16,7 +16,7 @@
     <h1>"End Meeting" Buttons</h1>
     <p>Sometimes, it can be hard for leaders to smoothly end awful meetings. This is why democracy exists.
         Give everyone discreet access to a button, and if a majority presses theirs, we end the meeting via a very loud siren.</p>
-    <p>Made with a handful of ESP8266's, buttons, and too much tape.</p>
+    <p>Made with a handful of ESP8266's, buttons, and lots of tape.</p>
 
     <img src="/meeting_buttons.gif" style="width: 100%; object-fit: cover;">
     <div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; margin: 0 auto;">
